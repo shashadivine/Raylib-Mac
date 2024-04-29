@@ -9,9 +9,11 @@ STEPS
 1. Create a folder/directory for your project (e.g. GameDev).
 2. Install raylib via Homebrew by opening your terminal and type the command: brew install raylib (feel free to use other methods of installing raylib)
 3. Download the raylib-template branch and add it into your project directory (from Step 1)
-- You may delete the README.md files in the bin, assets, and src folders.
-  - assets: you **may** place your asset files here (e.g. images, txt files, audio, etc.)
-  - src: your code files go in here (e.g. main.cpp)
+- You may delete the README.md files in the bin, assets, and src folders. Here are some of their functionalities.
+  - assets: You **may** place your asset files here (e.g. images, txt files, audio, etc.)
+  - src: Your code files go in here (e.g. main.cpp)
+  - bin: Your compiled binaries are stored here
+  - lib: Contains essential raylib library contents
   - Makefile: CFILES = src/main.cpp | change 'main' to whatever file name you may have, or add onto it if you have more than 1 file for your project (e.g. main.cpp player.cpp).
 4. There is a sample **main.cpp** file in src. Run it by choosing 'Run C/C++ File'. This option will show up if your file is present in Makefile.
 5. An error message "The preLaunchTask 'Build.OSX' terminated with exit code 2." Choose 'Debug Anyway' and then select "Open 'launch.json'"
