@@ -6,4 +6,5 @@ Credits to people in this Reddit thread:
 This Mac Raylib template is a combination of their tutorials, advice, and my experience with Raylib on MacOS VSCode.
 
 STEPS
-1. 
+1. Create a folder for your project. (e.g. GameDev)
+2. Install raylib
