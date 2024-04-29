@@ -6,7 +6,7 @@ OSX_OPT = -std=c++17 -Llib/ -framework CoreVideo -framework IOKit -framework Coc
 
 OSX_OUT = -o "bin/build_osx"
 
-CFILES = src/your-file.cpp
+CFILES = src/main.cpp
 
 build_osx: 
 	$(COMPILER) $(CFILES) $(SOURCE_LIBS) $(OSX_OUT) $(OSX_OPT)

@@ -1,0 +1,1 @@
+Your asset files go in this 'assets' folder!

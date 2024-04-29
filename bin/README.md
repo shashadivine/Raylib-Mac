@@ -1,0 +1,1 @@
+Your compiled binaries are stored in this 'bin' folder!
