@@ -7,7 +7,7 @@ This Mac Raylib template is a combination of their tutorials, advice, and my exp
 
 STEPS
 1. Create a folder/directory for your project (e.g. GameDev).
-2. Install raylib via Homebrew by opening your terminal and type the command: brew install raylib (feel free to use other methods of installing raylib)
+2. Install raylib on your machine.
 3. Download the raylib-template branch and add it into your project directory (from Step 1)
 - You may delete the README.md files in the bin, assets, and src folders. Here are some of their functionalities.
   - assets: You **may** place your asset files here (e.g. images, txt files, audio, etc.)
